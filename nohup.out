@@ -1,0 +1,21 @@
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: my-v0-project@0.1.0
+npm error Found: react@19.0.0
+npm error node_modules/react
+npm error   react@"^19" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from react-day-picker@8.10.1
+npm error node_modules/react-day-picker
+npm error   react-day-picker@"8.10.1" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error /Users/cornellbasson/.npm/_logs/2025-03-21T11_14_45_729Z-eresolve-report.txt
+npm error A complete log of this run can be found in: /Users/cornellbasson/.npm/_logs/2025-03-21T11_14_45_729Z-debug-0.log
