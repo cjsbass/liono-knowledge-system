@@ -25,7 +25,7 @@ const sampleAmbiguities: EntityAmbiguity[] = [
     id: "amb-1",
     type: "duplicate",
     question: "Are these the same person?",
-    description: "\"John Smith\" in Project Alpha documents and \"J. Smith\" in Contract #1001",
+    description: `"John Smith" in Project Alpha documents and "J. Smith" in Contract #1001`,
     options: [
       { id: "yes", label: "Yes, same person" },
       { id: "no", label: "No, different people" },
